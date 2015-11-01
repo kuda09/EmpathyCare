@@ -1,0 +1,19 @@
+{
+  "name": "empathycare",
+  "version": "1.0.0",
+  "description": "A care agency website ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "care",
+    "agency"
+  ],
+  "author": "Kudakwashe Nyamainashe",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13"
+  }
+}
